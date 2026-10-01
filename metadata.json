@@ -1,0 +1,6 @@
+{
+  "name": "BahaiZoom",
+  "description": "Global online community platform for prayers, Zoom meetings, educational programs, speakers, and resources in English, Persian, and Arabic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
